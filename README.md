@@ -30,7 +30,7 @@
   <!-- GitHub -->
   <a href="https://github.com/sanika-mukhmale" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit; font-size: 18px; transition: all 0.3s;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30">
-    <span>sanika-mukhmale</span>
+    <span>sanikamukhmale30</span>
   </a>
 
 </div>
