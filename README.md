@@ -15,7 +15,7 @@
 <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; max-width: 600px; margin: 20px auto; line-height: 1.6;">
   - 📫 <strong>Email:</strong> <a href="mailto:mukhmalesanika10@gmail.com">mukhmalesanika10@gmail.com</a><br>
   - 📄 <strong>Internship:</strong> DRDO (Defence Research and Development Organisation) – Internet of Things (IoT)<br>
-  - ⚡ <strong>Fun fact:</strong> Passionate about reading, especially in self-development & personal growth
+  - ⚡ <strong>Fun fact:</strong> Passionate about reading, especially in self-development 
 </p>
 
 <h3 align="center" style="color:#ff4c60; margin-top: 40px;">🌐 Connect with Me</h3>
