@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="https://github.com/sanikamukhmale30/sanikamukhmale30/blob/main/banner.png" alt="Banner" style="width: 100%; max-width: 1000px; border-radius: 10px;" />
+</p>
+
 <h1 align="center" style="font-size: 3em; 
     background: linear-gradient(90deg, #00f260, #0575e6); 
     -webkit-background-clip: text; color: transparent; font-weight: bold;">
-  𝗛𝗶 👋, 𝗜'𝗺 𝗦𝗮𝗻𝗶𝗸𝗮 𝗠𝘂𝗸𝗵𝗺𝗮𝗹𝗲
+ 👋 ʜɪ, ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ᴘʀᴏꜰɪʟᴇ
 </h1>
 
 <h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#6c63ff; font-weight: normal;">
